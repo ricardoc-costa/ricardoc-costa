@@ -3,8 +3,8 @@
 Eu sou Ricardo Correia, sou eletricista e estudante, atualmente estou aprendendo e criando projetos envolvendo:<br><br>
 -<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"><br>
 -<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"><br>
-e iniciando o aprendizado em:<br>
 -<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-javascript"><br>
+e iniciando o aprendizado em:<br>
 -<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
 <br>
 **Contact with me**<br>
